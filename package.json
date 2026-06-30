@@ -1,0 +1,13 @@
+{
+  "name": "static-edge-runtime",
+  "version": "1.0.0",
+  "description": "nodejs start",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "static-edge-runtime": "*"
+  }
+}
