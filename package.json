@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "express": "*",
-    "static-edge-runtime": "*"
+    "static-edge-runtime": "1.4.3"
   }
 }
